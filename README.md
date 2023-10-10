@@ -196,7 +196,7 @@ terraform apply --auto-approve
 * Slik informasjon ligger i "state" filen til terraform som du nettopp slettet!
 * Gå til Amazon ECR-tjenesten i AWS, og slett ecr repo du lagde.
 
-Endre ecr.tf ved å legge på en _backend_ blokk, slik at den ser omtrent slik ut
+Endre provider.tf ved å legge på en _backend_ blokk, slik at den ser omtrent slik ut, du må modifisere med egent student navn,
 
 ```
 terraform {
