@@ -97,7 +97,7 @@ I din fork av dette repositoriet, velg "actions" for å slå på støtte for Git
 
 I cloud 9 - Gå til terraform-demo mappen i dette repoet med
 ```
-cd terraform-app-ruchromnner/terraform-demo
+cd terraform-app-runner/terraform-demo
 ```
 
 Gå til terraform-demo katalogen. Legg merke til at
