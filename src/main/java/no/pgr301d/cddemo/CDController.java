@@ -10,7 +10,7 @@ class CDController {
 
     @GetMapping(path = "/")
     public String hello() {
-        return "Hello world! at " +  LocalDateTime.now().toString() + " " + UUID.randomUUID().toString();;
+        return "Hello world! at " +  LocalDateTime.now().toString() + " " + UUID.randomUUID().toString();
     }
 
 }
